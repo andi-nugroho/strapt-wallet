@@ -1,4 +1,3 @@
-
 import { usePrivyWallet } from '@/hooks/use-privy-wallet';
 import { useSeiNetwork } from '@/hooks/use-sei-network';
 import {

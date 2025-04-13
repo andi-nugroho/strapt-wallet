@@ -1,5 +1,4 @@
 
-
 import { useEffect, useRef } from 'react';
 import { useIsMobile } from '@/hooks/use-mobile';
 import QRCodeLib from 'qrcode';
